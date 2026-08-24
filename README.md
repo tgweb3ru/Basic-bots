@@ -2,7 +2,7 @@
 ### Роботы для базового управления группой в Telegram
 Подборка ботов для базового управления и вовлечения участников в Telegram-группах: активность, развлечения, сбор данных и поддержка пользователей.
 
-Последнее обновление: 05.08.2026
+Последнее обновление: 24.08.2026
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
@@ -10,12 +10,12 @@
       <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Telegraph</h3>
+      <h3 style="margin-top: 0;">Reward</h3>
       <p>$10</p>
     </td>
   </tr>
 </table>
-Telegram-бот для публикации материалов группы через Telegraph
+Telegram-бот для поощрения участников, которые помогают находить фейковые аккаунты
 
 ---
 
@@ -25,12 +25,12 @@ Telegram-бот для публикации материалов группы ч
       <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Telegraph</h3>
+      <h3 style="margin-top: 0;">Prison</h3>
       <p>$10</p>
     </td>
   </tr>
 </table>
-Telegram-бот для публикации материалов группы через Telegraph
+Telegram-бот для борьбы с фейковыми аккаунтами и нарушителями в сообществах
 
 ---
 
@@ -40,12 +40,12 @@ Telegram-бот для публикации материалов группы ч
       <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Telegraph</h3>
+      <h3 style="margin-top: 0;">Fine</h3>
       <p>$10</p>
     </td>
   </tr>
 </table>
-Telegram-бот для публикации материалов группы через Telegraph
+Telegram-бот для управления штрафами внутри сообщества с оплатой в Telegram Stars
 
 ---
 
@@ -55,12 +55,12 @@ Telegram-бот для публикации материалов группы ч
       <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Telegraph</h3>
+      <h3 style="margin-top: 0;">Drop</h3>
       <p>$10</p>
     </td>
   </tr>
 </table>
-Telegram-бот для публикации материалов группы через Telegraph
+Telegram-бот для знакомств и общения в заведениях, где хочется сделать первый шаг проще
 
 ---
 
