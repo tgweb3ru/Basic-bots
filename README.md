@@ -22,6 +22,66 @@ Telegram-бот для публикации материалов группы ч
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Telegraph</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Telegram-бот для публикации материалов группы через Telegraph
+
+---
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Telegraph</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Telegram-бот для публикации материалов группы через Telegraph
+
+---
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Telegraph</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Telegram-бот для публикации материалов группы через Telegraph
+
+---
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Telegraph</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Telegram-бот для публикации материалов группы через Telegraph
+
+---
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="encrypt_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
