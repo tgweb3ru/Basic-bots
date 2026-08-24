@@ -7,7 +7,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="reward_bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Reward</h3>
@@ -22,7 +22,7 @@ Telegram-бот для поощрения участников, которые �
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="prison_bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Prison</h3>
@@ -37,7 +37,7 @@ Telegram-бот для борьбы с фейковыми аккаунтами �
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="fine_bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Fine</h3>
@@ -52,7 +52,7 @@ Telegram-бот для управления штрафами внутри соо
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="telegraph_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="drop_bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Drop</h3>
